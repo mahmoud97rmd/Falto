@@ -1,0 +1,2 @@
+class BacktestEngine {}
+class BacktestResult {}

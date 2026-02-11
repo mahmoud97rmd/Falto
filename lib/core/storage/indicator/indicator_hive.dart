@@ -1,0 +1,2 @@
+class IndicatorSettingsEntityAdapter {}
+class IndicatorSettingsEntity {}

@@ -1,0 +1,2 @@
+class ScriptEntityAdapter {}
+class ScriptEntity {}

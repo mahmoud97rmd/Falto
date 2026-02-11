@@ -1,0 +1,2 @@
+class ThemeEntityAdapter {}
+class ThemeEntity {}
